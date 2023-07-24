@@ -1,0 +1,866 @@
+[
+  {
+    "iso": "AFN",
+    "symbol": "؋",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "ALL",
+    "symbol": "Lek",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "DZD",
+    "symbol": "دج",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "EUR",
+    "symbol": "€",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "AOA",
+    "symbol": "Kz",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "XCD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "ARS",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "AMD",
+    "symbol": "֏",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "AUD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "AZN",
+    "symbol": "₼",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BSD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BHD",
+    "symbol": "BD",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BDT",
+    "symbol": "Tk",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BBD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BYR",
+    "symbol": "p.",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BZD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "XOF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BTN",
+    "symbol": "Ngultrum",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BOB",
+    "symbol": "$b",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BAM",
+    "symbol": "KM",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BWP",
+    "symbol": "P",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BRL",
+    "symbol": "R$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BND",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BGN",
+    "symbol": "лв",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "BIF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CVE",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "KHR",
+    "symbol": "៛",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "XAF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CAD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CLP",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CNY",
+    "symbol": "¥",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "COP",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "KMF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CDF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CRC",
+    "symbol": "₡",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CUP",
+    "symbol": "₱",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "CZK",
+    "symbol": "Kč",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "DKK",
+    "symbol": "kr.",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "DJF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "DOP",
+    "symbol": "RD$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "EGP",
+    "symbol": "£",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "ERN",
+    "symbol": "Nkf",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SZL",
+    "symbol": "Lilangeni",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "ETB",
+    "symbol": "Br",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "FJD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "GMD",
+    "symbol": "Dalasi",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "GEL",
+    "symbol": "₾",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "GHS",
+    "symbol": "₵",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "GTQ",
+    "symbol": "Q",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "GNF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "GYD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "HTG",
+    "symbol": "G",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "HNL",
+    "symbol": "L",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "HKD",
+    "symbol": "HK$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "HUF",
+    "symbol": "Ft",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "ISK",
+    "symbol": "kr",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "INR",
+    "symbol": "₹",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "IDR",
+    "symbol": "Rp",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "IRR",
+    "symbol": "﷼",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "IQD",
+    "symbol": "د.ك",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "ILS",
+    "symbol": "₪",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "JMD",
+    "symbol": "J$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "JPY",
+    "symbol": "¥",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "JOD",
+    "symbol": "Dinar",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "KZT",
+    "symbol": "₸",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "KES",
+    "symbol": "KSh",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "KWD",
+    "symbol": "ك",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "KGS",
+    "symbol": "лв",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "LAK",
+    "symbol": "₭",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "LBP",
+    "symbol": "ل.ل",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "LSL",
+    "symbol": "Loti",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "LRD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "LYD",
+    "symbol": "LD",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MOP",
+    "symbol": "MOP$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MGA",
+    "symbol": "Ar",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MWK",
+    "symbol": "MK",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MYR",
+    "symbol": "RM",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MVR",
+    "symbol": "Rufiyaa",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MRU",
+    "symbol": "UM",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MUR",
+    "symbol": "₹",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MXN",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MDL",
+    "symbol": "Lei",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "MNT",
+    "symbol": "₮",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MAD",
+    "symbol": "Dirham",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MZN",
+    "symbol": "MT",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MMK",
+    "symbol": "K",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "NAD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "NPR",
+    "symbol": "₹",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "NZD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "NIO",
+    "symbol": "C$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "NGN",
+    "symbol": "₦",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "KPW",
+    "symbol": "원",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "MKD",
+    "symbol": "ден",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "NOK",
+    "symbol": "kr",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "OMR",
+    "symbol": "﷼",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "PKR",
+    "symbol": "₹",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "PGK",
+    "symbol": "K",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "PYG",
+    "symbol": "₲",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "PEN",
+    "symbol": "S/.",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "PHP",
+    "symbol": "₱",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "PLN",
+    "symbol": "zł",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "QAR",
+    "symbol": "﷼",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "RON",
+    "symbol": "lei",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "RUB",
+    "symbol": "₽",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "RWF",
+    "symbol": "₣",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "WST",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "STN",
+    "symbol": "Db",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SAR",
+    "symbol": "﷼",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "RSD",
+    "symbol": "РСД",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SCR",
+    "symbol": "₹",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SLE",
+    "symbol": "Le",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SGD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SBD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SOS",
+    "symbol": "S",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "ZAR",
+    "symbol": "R",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "KRW",
+    "symbol": "₩",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SSP",
+    "symbol": "£",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "LKR",
+    "symbol": "₹",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SDG",
+    "symbol": "£",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SRD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SEK",
+    "symbol": "kr",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "CHF",
+    "symbol": "CHF",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "SYP",
+    "symbol": "£",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "TWD",
+    "symbol": "NT$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "TJS",
+    "symbol": "Somoni",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "TZS",
+    "symbol": "Shilling",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "THB",
+    "symbol": "฿",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "TOP",
+    "symbol": "T$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "TTD",
+    "symbol": "TT$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "TND",
+    "symbol": "Dinar",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "TRY",
+    "symbol": "₺",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "TMT",
+    "symbol": "manat",
+    "separation": " ",
+    "position": "right"
+  },
+  {
+    "iso": "UGX",
+    "symbol": "UGX",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "UAH",
+    "symbol": "₴",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "AED",
+    "symbol": "د.إ",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "GBP",
+    "symbol": "£",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "USD",
+    "symbol": "$",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "UYU",
+    "symbol": "$U",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "UZS",
+    "symbol": "лв",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "VUV",
+    "symbol": "VT"
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "VES",
+    "symbol": "Bs. S",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "VND",
+    "symbol": "₫",
+    "separation": "",
+    "position": "left"
+  },
+  {
+    "iso": "YER",
+    "symbol": "﷼",
+    "separation": "",
+    "position": "right"
+  },
+  {
+    "iso": "ZMW",
+    "symbol": "ZK",
+    "separation": "",
+    "position": "left"
+  }
+]
