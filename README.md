@@ -10,14 +10,14 @@ You can donate too if you think we are doing an excellent work for your needs. T
 
 Contribution:
 ======
-If you think that you are able to contribute in the development then don't hesitate join to us. All donations
+If you think that you are able to contribute in the development then don't hesitate join to us. All donations will be split between contributors. Firt 5 contributors will get the money plus mentioning in the credits section and others will be mentioned in the credits.
 
 Donation possibilities:
 ======
 
 | Type            |                                                                                                                  Link                                                                                                                   |
 |-----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Buy me a coffee |                                                 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kynarnetwork)                                                 |
-| Coinbase        |              [!["Donate with crypto"](https://nfg-sofun.s3.amazonaws.com/uploads/redactor_rails/picture/data/73379/Donate_Crypto_Button.png)](https://commerce.coinbase.com/checkout/d07a3a58-435a-4827-adeb-8f0214d460d3)              |
+| Buy me a coffee | [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kynarnetwork)                                                 |
+| Coinbase        | [!["Donate with crypto"](https://nfg-sofun.s3.amazonaws.com/uploads/redactor_rails/picture/data/73379/Donate_Crypto_Button.png)](https://commerce.coinbase.com/checkout/d07a3a58-435a-4827-adeb-8f0214d460d3)              |
 | Ko-fi           | [!["Ko-fi"](https://storage.ko-fi.com/cdn/kofi2.png)](https://ko-fi.com/kynarnetwork) |
 
