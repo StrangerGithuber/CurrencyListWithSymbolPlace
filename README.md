@@ -32,3 +32,4 @@ References:
 - https://gist.github.com/sourovroy/e77dfed3a81fa0fe345005d48abb49ca#file-languages-php-L163
 - https://www.countries-ofthe-world.com/world-currencies.html
 - https://www.localeplanet.com/icu/iso639.html#en
+- https://fastspring.com/blog/how-to-format-30-currencies-from-countries-all-over-the-world/
