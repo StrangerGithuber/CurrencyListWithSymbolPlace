@@ -10,7 +10,7 @@ You can donate too if you think we are doing an excellent work for your needs. T
 
 Contribution:
 ======
-If you think that you are able to contribute in the development then don't hesitate join to us. All donations will be split between contributors. Firt 5 contributors will get the money plus mentioning in the credits section and others will be mentioned in the credits. When you will pull a request then mention which changes you did make, why and from where you got the information.
+If you think that you are able to contribute in the development then don't hesitate join to us. All donations will be split between contributors. First 5 contributors will get the money plus mentioning in the credits section and others will be mentioned in the credits. When you will pull a request then mention which changes you did make, why and from where you got the information.
 
 Donation possibilities:
 ======
